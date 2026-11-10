@@ -310,6 +310,7 @@
     [/invalid login credentials/i, 'E-mail ou senha incorretos.'],
     [/email not confirmed/i, 'Confirme seu e-mail pelo link que enviamos antes de entrar.'],
     [/already registered/i, 'Já existe uma conta com este e-mail.'],
+    [/not authorized/i, 'O cadastro ainda não está aberto para este e-mail.'],
     [/rate limit|too many|security purposes/i, 'Muitas tentativas. Aguarde alguns minutos e tente de novo.'],
     [/different from the old/i, 'A nova senha precisa ser diferente da anterior.'],
     [/password/i, 'Escolha uma senha mais forte, com pelo menos 8 caracteres.'],
